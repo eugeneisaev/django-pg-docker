@@ -30,4 +30,4 @@ services:
     - tutorial-volume:/var/lib/postgresql/data
 
 volumes:
-  tutorial-volume:
+  tutorial-volume: 
